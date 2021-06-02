@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.f5497eb8.chunk.css",
+    "main.js": "/home/static/js/main.28bffb07.chunk.js",
+    "main.js.map": "/home/static/js/main.28bffb07.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
+    "static/js/2.33463950.chunk.js": "/home/static/js/2.33463950.chunk.js",
+    "static/js/2.33463950.chunk.js.map": "/home/static/js/2.33463950.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.c5f10d47c0ed50fd649ba50af76aef9c.js": "/home/precache-manifest.c5f10d47c0ed50fd649ba50af76aef9c.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.f5497eb8.chunk.css.map": "/home/static/css/main.f5497eb8.chunk.css.map",
+    "static/js/2.33463950.chunk.js.LICENSE.txt": "/home/static/js/2.33463950.chunk.js.LICENSE.txt",
+    "static/media/Ali Hindy Resume (JUN 2 LAST UPDATE).pdf": "/home/static/media/Ali Hindy Resume (JUN 2 LAST UPDATE).d7b612da.pdf",
+    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.32f6b574.png",
+    "static/media/resume.pdf": "/home/static/media/resume.9d3da0e2.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c590061.js",
+    "static/js/2.33463950.chunk.js",
+    "static/css/main.f5497eb8.chunk.css",
+    "static/js/main.28bffb07.chunk.js"
+  ]
+}
