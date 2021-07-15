@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7aff5c1301b5bcd1ea66d4b28ca830d",
+    "revision": "77976803993e4b07931451e5f82b6fbd",
     "url": "/index.html"
   },
   {
-    "revision": "f6e2ccc262030d525d0a",
+    "revision": "f63621b3838e2e059303",
     "url": "/static/css/main.aab4b2e8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.010554db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f6e2ccc262030d525d0a",
-    "url": "/static/js/main.eb7d1c94.chunk.js"
+    "revision": "f63621b3838e2e059303",
+    "url": "/static/js/main.306b4927.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
@@ -28,6 +28,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Ali Hindy Resume (JUN 2 LAST UPDATE).d7b612da.pdf"
   },
   {
+    "revision": "990e098cdd84a100e4e7fd341e352ab3",
+    "url": "/static/media/podcast.990e098c.png"
+  },
+  {
     "revision": "58dbef9deba287b7efa32e845ce2a295",
     "url": "/static/media/point_pickup.58dbef9d.png"
   },
@@ -36,11 +40,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/resume.9d3da0e2.pdf"
   },
   {
-    "revision": "55783aaded059789ef0778bc83f28733",
-    "url": "/static/media/website.55783aad.png"
+    "revision": "999b83fb9e213b89aee90250819fe2a0",
+    "url": "/static/media/website.999b83fb.png"
   },
   {
     "revision": "569d4156cfeaa92ee179a7de60956d99",
     "url": "/static/media/yakera.569d4156.png"
+  },
+  {
+    "revision": "ac7e4e6e5f082246c9fa83ec9bdd49d4",
+    "url": "/static/media/youtube.ac7e4e6e.png"
   }
 ]);
