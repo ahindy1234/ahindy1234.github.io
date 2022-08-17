@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74d29a011077dc7156957fe0f249be7c",
+    "revision": "55a7226a71249ebb3a6d472c2d7069c5",
     "url": "/index.html"
   },
   {
-    "revision": "48b2820d2dbd1442d4b7",
+    "revision": "c746d398b4bff3c87be0",
     "url": "/static/css/main.aab4b2e8.chunk.css"
   },
   {
-    "revision": "84a1bbdf08d90bf48de6",
-    "url": "/static/js/2.07fc2773.chunk.js"
+    "revision": "ab5769591618140d0e6c",
+    "url": "/static/js/2.7da87b8c.chunk.js"
   },
   {
     "revision": "c87e50d81cc7b5311525cc6fd5482ea5",
-    "url": "/static/js/2.07fc2773.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7da87b8c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "48b2820d2dbd1442d4b7",
-    "url": "/static/js/main.0f0531d4.chunk.js"
+    "revision": "c746d398b4bff3c87be0",
+    "url": "/static/js/main.1a9f51f0.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
@@ -26,6 +26,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6651088a9b0781b8089d2e991a0812cf",
     "url": "/static/media/Ali_Hindy_Stanford_Resume.6651088a.pdf"
+  },
+  {
+    "revision": "719a0ba4f7dde7325c4d32da1343db2d",
+    "url": "/static/media/asl.719a0ba4.png"
+  },
+  {
+    "revision": "471051062c65fdb0c17bb571299a1673",
+    "url": "/static/media/ell.47105106.png"
   },
   {
     "revision": "6230c7c123255b33dc6606f7459b8ef2",
